@@ -14,6 +14,13 @@ I enjoy building smart systems that combine **software**, **hardware**, and **re
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=flat-square&logo=websocket&logoColor=white)
+![Regex](https://img.shields.io/badge/Regex-FF4088?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![openHAB](https://img.shields.io/badge/openHAB-FF6600?style=flat-square&logo=openhab&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-FF9900?style=flat-square&logo=raspberry-pi&logoColor=white)
 
 ---
